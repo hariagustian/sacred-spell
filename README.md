@@ -1,6 +1,9 @@
 # sacred-spell
 Here is project html5 game.
 
+play this game http://hariagustian.github.io/sacred-spell
+fanpage https://web.facebook.com/owlpicture/
+
 open source libraries are included <br>
 Matter Js ( 2d physics engine ) -- http://brm.io/matter-js/ <br>
 PreloadJs, Jquery ( GUI ) -- https://createjs.com/docs/preloadjs/modules/PreloadJS.html  <br>
