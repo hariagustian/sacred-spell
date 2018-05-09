@@ -1,5 +1,5 @@
 # sacred-spell
-Here is project first html5 game.
+Here is project html5 game.
 
 open source libraries are included
 Matter Js ( 2d physics engine ) -- http://brm.io/matter-js/ <br>
