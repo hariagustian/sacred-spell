@@ -1,7 +1,7 @@
 # sacred-spell
 Here is project html5 game.
 
-play this game http://hariagustian.github.io/sacred-spell
+play this game http://hariagustian.github.io/sacred-spell<br>
 fanpage https://web.facebook.com/owlpicture/
 
 open source libraries are included <br>
