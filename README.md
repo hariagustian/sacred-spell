@@ -1,10 +1,10 @@
 # sacred-spell
-Here is project html5 game.
+2d game project - html5 canvas.
 
 play this game http://hariagustian.github.io/sacred-spell<br>
-fanpage https://web.facebook.com/owlpicture/
+facebook, https://web.facebook.com/owlpicture/
 
-open source libraries are included <br>
+open source libraries <br>
 Matter Js ( 2d physics engine ) -- http://brm.io/matter-js/ <br>
 PreloadJs, Jquery ( GUI ) -- https://createjs.com/docs/preloadjs/modules/PreloadJS.html  <br>
 Poly Decomp ( SVG ) -- https://github.com/schteppe/poly-decomp.js/ and http://jquery.com <br>
